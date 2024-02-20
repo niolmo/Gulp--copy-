@@ -1,0 +1,4 @@
+(()=>{"use strict";var __webpack_modules__={"./src/js/script.js":
+/*!**************************!*\
+  !*** ./src/js/script.js ***!
+  \**************************/(__unused_webpack___webpack_module__,__webpack_exports__,__webpack_require__)=>{eval("__webpack_require__.r(__webpack_exports__);\n\n\n//# sourceURL=webpack://gulp_22/./src/js/script.js?")}},__webpack_require__={r:_=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(_,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(_,"__esModule",{value:!0})}},__webpack_exports__={};__webpack_modules__["./src/js/script.js"](0,__webpack_exports__,__webpack_require__)})();
